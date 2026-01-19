@@ -53,10 +53,10 @@ This section focuses on cleaning **raw and messy datasets**.
 - Removing blank rows using filters
 - Handling extra spaces using `TRIM()`
 - Fixing non-breaking spaces using:
-- =TRIM(SUBSTITUTE(A1, CHAR(160), ""))
-
----
-  - Changing text case:
+```excel
+=TRIM(SUBSTITUTE(A1, CHAR(160), ""))
+```
+- Changing text case:
 - `UPPER()`
 - `LOWER()`
 - `PROPER()`
@@ -66,7 +66,7 @@ This section focuses on cleaning **raw and messy datasets**.
 
 ### 5️⃣ Logical Functions
 - `IF()`
-- `Nested IF`
+- Nested `IF`
 - `IFS()`
 - `AND()`
 - `OR()`
@@ -125,10 +125,10 @@ excel-data-cleaning/
 └── resources/
 └── references.md
 ```
-
 ---
 
 ## 📝 Note
+
 - All notes are based on **personal study and practice**
 - Handwritten notes and examples are uploaded topic-wise
 - Content is added gradually as part of my learning journey
@@ -139,6 +139,4 @@ excel-data-cleaning/
 
 **Sanchal Kumar**  
 (Data Analytics – Excel Fundamentals)
-
----
 
