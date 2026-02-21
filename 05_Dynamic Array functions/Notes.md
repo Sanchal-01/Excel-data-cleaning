@@ -1,4 +1,4 @@
-## 🔹 Dynamic Array Functions (Excel)
+##  Dynamic Array Functions (Excel)
 
 In this section, I learned how to use Excel’s Dynamic Array Functions to perform fast and flexible analysis without writing complex formulas.
 
