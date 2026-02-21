@@ -1,4 +1,4 @@
-# 🔢 Chapter 4 – Logical Functions & Conditional Analysis (Excel)
+# Chapter 4 – Logical Functions & Conditional Analysis (Excel)
 
 This chapter focuses on using logical functions in Excel to make decisions based on conditions.
 Logical functions are heavily used in real-world analytics for eligibility checks, grading systems,
